@@ -1,6 +1,9 @@
-# musk-5-step-improvement
+---
+name: musk-5-step-improvement
+description: Apply Elon Musk's 5-step algorithm to improve any system, process, product, or codebase.
+---
 
-Summary
+# musk-5-step-improvement
 
 **Apply Elon Musk's 5-step algorithm to improve any system, process, product, or codebase.**
 
